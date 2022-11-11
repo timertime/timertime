@@ -1,11 +1,11 @@
-- 👋 Hi, I’m @timertime
+- 👋 Hi, I’m silvina ines lombardo
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-## Hello World!
-Artes multimediales -UNA-
+## Artes multimediales -UNA- Buenos Aires, Argentina. -2022-
+
 
 <!---
 timertime/timertime is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
